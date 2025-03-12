@@ -63,4 +63,8 @@ Uses shadcn-ui and Tailwind CSS for modern styling.
 
 ## OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/e89b31be-64de-4afe-a353-119ed79efafe)
+
+![Image](https://github.com/user-attachments/assets/0ee14da3-4686-42e8-ab86-da2bc098d023)
+
 
